@@ -160,7 +160,7 @@ gamestate = play
 sky.velocityY = speed
   gameOver.visible = false
   restart.visible = false
-
+score=0
 }
 
 
